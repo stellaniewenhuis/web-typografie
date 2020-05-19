@@ -8,28 +8,413 @@ Feel free to adjust the defaults to your needs.
 
 body {
 /*    background-image: radial-gradient(circle at center center, rgb(100,32,32),rgb(8, 8, 8));*/
-    background-color: rgb(50,0,0);
+/*    background-color: rgb(50,0,0);*/
+    background-color: black;
 }
+
+/*STIJLING TOEGEVOEGDE CAPTIONS*/
+/*styling geluid1*/
+.geluid1{
+    display: none;
+}
+
+.geluid1 p {
+    width:100%;
+    text-align:center;
+    color:white;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top:3em;
+
+}
+
+.sound0 .geluid1 {
+    display: block;
+/*    opacity: 1;*/
+/*    animation-name: fadeInOpacity;*/
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation: fadeInOpacity 4.5s forwards;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    50%{
+    opacity: 1;}
+    100% {
+        opacity: 0;
+    }
+}
+
+/*styling geluid 2*/
+.geluid2 p {
+    width:100%;
+    text-align:center;
+    color:white;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top:1em;
+
+}
+.geluid2{
+    display: none;
+}
+.sound1 .geluid2 {
+    display: block;
+    animation: shake 1.2s forwards;
+}
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); opacity: 1; }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    99% { transform: translate(1px, -2px) rotate(-1deg); opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+/*styling geluid 3*/
+.geluid3 p {
+    width:100%;
+    text-align:center;
+    color:white;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top:-1em;
+}
+
+.geluid3{
+    display: none;
+}
+
+.sound2 .geluid3 {
+    display: block;
+    animation: shake 3s forwards;
+}
+
+    @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); opacity: 1; }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    99% { transform: translate(1px, -2px) rotate(-1deg); opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+/*styling geluid 4*/
+.geluid4 p {
+    width:100%;
+    text-align:center;
+    color:white;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top:-3em;
+}
+
+.geluid4{
+    display: none;
+}
+
+.sound3 .geluid4 {
+    display: block;
+    animation: shake 2s forwards;
+}
+
+    @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); opacity: 1; }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    99% { transform: translate(1px, -2px) rotate(-1deg); opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+/*styling geluid 5*/
+/*
+.geluid5 p {
+    width:100%;
+    text-align:center;
+    color:white;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top:-4em;
+}
+
+.geluid5{
+    display: none;
+}
+
+.sound5 .geluid5 {
+    display: block;
+    animation: shake 3s forwards;
+}
+
+    @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); opacity: 1; }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    99% { transform: translate(1px, -2px) rotate(-1deg); opacity: 1; }
+    100% { opacity: 0; }
+*/
+/*  }*/
+/*styling geluid 6*/
+.geluid6 p {
+    width:100%;
+    text-align:center;
+    color:white;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top:-7em;
+}
+
+.geluid6{
+    display: none;
+}
+.sound7 .geluid6 {
+    display: block;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation: fadeIn 3s forwards;
+    margin-top:6em;
+}
+
+.increases p {
+    width:100%;
+    text-align:center;
+    color:orange;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top:-13em;
+}
+
+.increases{
+    display: none;
+}
+.sound9 .increases {
+    display: block;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation: fadeIn 40s forwards;
+    margin-top:16em;
+}
+
+/*styling geluid 7*/
+.geluid7 p {
+    width:100%;
+    text-align:center;
+    color:red;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top:-14em;
+}
+
+.geluid7{
+    display: none;
+}
+.sound10 .geluid7 {
+    display: block;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation: fadeIn 8s forwards;
+    margin-top:15em;
+}
+
+/*styling geluid 8*/
+.geluid8 p {
+    width:100%;
+    text-align:center;
+    color:white;
+    font-family: "Brenner Mono"; font-style: normal; font-weight: 400;
+    font-size:30px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    margin-top: 17em;
+}
+
+.geluid8{
+    display: none;
+}
+.sound11 .geluid8 {
+    display: block;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation: fadeIn 3s forwards;
+    margin-top:-40em;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 1;
+
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+
+/*ANIMATIES PER SOUND*/
+.sound0{
+        animation: change 6s linear;
+}
+
+/*
+@-webkit-keyframes change {
+    0% {
+        background-color: yellow;
+    }
+    13% {
+        background-color: green;
+    }
+    25% {
+        background-color: orange;
+    }
+    35% {
+        background-color: red;
+    }
+    45% {
+        background-color: purple;
+    }
+    98% {
+        background-color: aqua;
+    }
+    99% {
+        background-color: white;
+    }
+    100% {
+        background-color: black;
+    }
+}
+*/
+
+/*
+.sound0{
+    animation: sound0BackgroundChange 20s linear;
+}
+@-webkit-keyframes sound0BackgroundChange {
+    0% {
+        background-color: #0A0B0B;
+    }
+    13% {
+        background-color: #0A0A0E;
+    }
+    25% {
+        background-color: #030203;
+    }
+    35% {
+        background-color: #030203;
+    }
+    45% {
+        background-color: #1F2A2F;
+    }
+    98% {
+        background-color: #1F2A2F;
+    }
+    99% {
+        background-color: #5A625F;
+    }
+    100% {
+        background-color: #5A625F;
+    }
+}
+*/
+
+/*
+.sound0{
+    animation: change 5s linear;
+}
+@-webkit-keyframes change {
+    0% {
+        background-color: yellow;
+    }
+    13% {
+        background-color: green;
+    }
+    25% {
+        background-color: orange;
+    }
+    35% {
+        background-color: red;
+    }
+    45% {
+        background-color: purple;
+    }
+    98% {
+        background-color: aqua;
+    }
+    99% {
+        background-color: white;
+    }
+    100% {
+        background-color: black;
+    }
+}
+
+*/
 
 #video-placeholder {
     display: block;
+    margin-top:5em;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 15em;
+/*    margin-top: 15em;*/
     box-shadow: 1px 1px 50px 20px blue;
     transform: scale(30%);
     transition: 2s;
+    Width:60%;
+/*    margin-top: 5em;*/
 }
+/*
 p {
-    width:60%;
-    margin-left: 20%;
+    width:80%;
+    margin-left: 10%;
     text-align:center;
 }
+*/
+
+p {
+    width:100%;
+    text-align:center;
+}
+
 
 #closed-captions p {
     opacity: 0;
     transition: .05s;
     position: absolute;
+    margin-top:2em;
 }
 #closed-captions .on {
     opacity: 1;
@@ -43,7 +428,7 @@ p {
     animation: sound1BackgroundChange 11s linear;
 }
 
-.sound10 {
+.sound10  {
     animation: backgroundtest 11s linear;
 }
 
@@ -51,17 +436,61 @@ p {
     animation: textanim 11s linear;
 }
 
+/*
+@keyframes colorchange {
+  0% {
+    background: black;
+  }
+  100% {
+    background: darkred;
+  }
+}
+@keyframes colorchange {
+  0% {
+    background: black;
+  }
+  100% {
+    background: darkred;
+  }
+}
+*/
 
-@-webkit-keyframes backgroundtest {
+/*rebeccas code*/
+/*.sound11 {*/
+/*    background-color: white;*/
+/*    background-blend-mode: color-burn;*/
+/*    box-shadow: red;*/
+/*    filter: brightness(300%);*/
+/*    animation: colorchange 1s ease-out;*/
+}
+
+
+/**@-webkit-keyframes backgroundtest {*/*/
+/*
     91% {
         background-color: rgb(100,0,0);
-/*        background-image: radial-gradient(circle at center center, rgb(32,32,100),rgb(8, 8, 8));*/
+        background-image: radial-gradient(circle at center center, rgb(32,32,100),rgb(8, 8, 8));
     }
     100% {
-        background-color: rgb(50,0,0);
+*/
+/*        background-color: rgb(50,0,0);*/
 /*        background-image: radial-gradient(circle at center center, rgb(100,32,32),rgb(8, 8, 8));*/
     }
+/*}
+*/
+
+/*
+.sound1 html {
+    animation: mymove 5s infinite;
 }
+
+@keyframes mymove {
+    from {background-color: rgb(50,0,0);}
+  to {background-color: white;}
+}
+*/
+
+
 
 @-webkit-keyframes backgroundtest {
     91% {
@@ -86,8 +515,9 @@ p {
     color:white;
     font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
     font-size:20px;
-    text-align: left;
-    margin-top: 3em;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+/*    text-align: left;*/
+/*    margin-top: 3em;*/
 }
 
 /*voice 2 algemene instellingen*/
@@ -95,8 +525,9 @@ p {
     color:white;
     font-family: "Brenner Mono"; font-style: Normal; font-weight: 300;
     font-size:20px;
-    text-align: right;
-    margin-top: 5em;
+
+/*    text-align: right;*/
+/*    margin-top: 5em;*/
 }
 
 /*voice 3 algemene instellingen*/
@@ -371,45 +802,52 @@ VOICE 2: K's voice
 /*"interlinked"*/
 .p5.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 }
 /*"within"*/
 .p5.on span:nth-of-type(2) {
     opacity: 1;
-    transition: 0s .4s;
+    font-weight:600;
+    transition-delay:.4s;
 
 
 }
 /*"cells,"*/
 .p5.on span:nth-of-type(3) {
     opacity: 1;
-    transition: 0s .5s;
+    font-weight:600;
+    transition-delay:.6s;
 
 }
 /*"interlinked"*/
 .p5.on span:nth-of-type(4) {
     opacity: 1;
-    transition: 0s .7s;
+    font-weight:600;
+    transition-delay:1s;
 
 }
 /*"within"*/
 .p5.on span:nth-of-type(5) {
     opacity: 1;
-    transition: 0s 1.1s;
+    font-weight:600;
+    transition-delay:1.4s;
 
 }
 /*"one"*/
 .p5.on span:nth-of-type(6) {
     opacity: 1;
-    transition: 0s 1.4s;
+    font-weight:600;
+    transition-delay:2s;
 
 }
 
 /*"stem"*/
 .p5.on span:nth-of-type(7) {
     opacity: 1;
-    transition: 0s 1.7s;
+    font-weight:600;
+    transition-delay:2.4s;
 
 }
 
@@ -419,12 +857,15 @@ VOICE 3: Cops voice
 
 /*"Fuck"*/
 .p6.on span:first-of-type {
+    font-style:italic;
 }
 /*"off,"*/
 .p6.on span:nth-of-type(2) {
+font-style:italic;
 }
 /*"skin-job!"*/
 .p6.on span:nth-of-type(3) {
+    font-style:italic;
 }
 
 /* **********************************************
@@ -434,70 +875,80 @@ VOICE 2:
 /*"And"*/
 .p7.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 
 }
 /*"dreadfully"*/
 .p7.on span:nth-of-type(2) {
     opacity: 1;
-    transition: 0s .4s;
+    font-weight:600;
+    transition-delay:.4s;
 
 
 }
 /*"distinct"*/
 .p7.on span:nth-of-type(3) {
     opacity: 1;
-    transition: 0s .5s;
+    font-weight:600;
+    transition-delay:.6s;
 
 
 }
 /*"against"*/
 .p7.on span:nth-of-type(4) {
     opacity: 1;
-    transition: 0s .7s;
+    font-weight:600;
+    transition-delay:1s;
 
 }
 /*"the"*/
 .p7.on span:nth-of-type(5) {
     opacity: 1;
-    transition: 0s 1.1s;
+    font-weight:600;
+    transition-delay:1.4s;
 
 }
 /*"dark"*/
 .p7.on span:nth-of-type(6) {
     opacity: 1;
-    transition: 0s 1.4s;
+    font-weight:600;
+    transition-delay:2s;
 
 }
 /*"a"*/
 .p7.on span:nth-of-type(7) {
     opacity: 1;
-    transition: 0s 1.7s;
+    font-weight:600;
+    transition-delay:2.4s;
 
 }
 /*"tall"*/
 .p7.on span:nth-of-type(8) {
     opacity: 1;
-    transition: 0s 2s;
-
+    font-weight:600;
+    transition-delay:3s;
 }
 /*"white"*/
 .p7.on span:nth-of-type(9) {
     opacity: 1;
-    transition: 0s 3s;
+    font-weight:600;
+    transition-delay:3.4s;
 
 }
 /*"fountain"*/
 .p7.on span:nth-of-type(10) {
     opacity: 1;
-    transition: 0s 3.2s;
+    font-weight:600;
+    transition-delay:4s;
 
 }
 /*"played..."*/
 .p7.on span:nth-of-type(11) {
     opacity: 1;
-    transition: 0s 3.7s;
+   font-weight:600;
+    transition-delay:4s;
 
 }
 
@@ -507,11 +958,13 @@ VOICE 1:
 ********************************************** */
 
 /*"Cells."*/
+
+.p8 span {
+    opacity: 0;
+}
+
 .p8.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
-
-
 }
 
 /* **********************************************
@@ -521,8 +974,8 @@ VOICE 2:
 /*"Cells."*/
 .p9.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
-
+    font-weight:600;
+    transition-delay:.2s;
 
 }
 
@@ -581,7 +1034,7 @@ VOICE 1:
 VOICE 1:
 ********************************************** */
 
-.p10 span {
+.p11 span {
     opacity:0;
 }
 /*"Cells."*/
@@ -597,7 +1050,8 @@ VOICE 2:
 /*"Cells."*/
 .p12.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 }
 
@@ -605,51 +1059,55 @@ VOICE 2:
 VOICE 1:
 ********************************************** */
 
+
+.p13 span {
+    opacity: 0;
+}
+
 /*"Do"*/
 .p13.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
 
 
 }
 /*"they"*/
 .p13.on span:nth-of-type(2) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay: .4s;
 
 }
 /*"keep"*/
 .p13.on span:nth-of-type(3) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay: .5s;
 
 
 }
 /*"you"*/
 .p13.on span:nth-of-type(4) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay: .7s;
 
 
 }
 /*"in"*/
 .p13.on span:nth-of-type(5) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay: 1.1s;
 
 
 }
 /*"a"*/
 .p13.on span:nth-of-type(6) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay: 1.4s;
 
 
 }
 /*"cell?"*/
 .p13.on span:nth-of-type(7) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay: 1.7s;
 
 
 }
@@ -673,7 +1131,8 @@ VOICE 2:
 /*"Cells."*/
 .p15.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 }
 
@@ -681,88 +1140,91 @@ VOICE 2:
 VOICE 1:
 ********************************************** */
 
+.p16 span {
+    opacity: 0;
+}
+
 /*"When"*/
 .p16.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
 
 }
 /*"you're"*/
 .p16.on span:nth-of-type(2) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:.4s;
 
 }
 /*"not"*/
 .p16.on span:nth-of-type(3) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:.7s;
 
 }
 /*"performing"*/
 .p16.on span:nth-of-type(4) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:1.1s;
 
 }
 /*"your"*/
 .p16.on span:nth-of-type(5) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:1.4s;
 
 }
 /*"duties,"*/
 .p16.on span:nth-of-type(6) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:1.7s;
 
 }
 /*"do"*/
 .p16.on span:nth-of-type(7) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:2.2s;
 
 }
 /*"they"*/
 .p16.on span:nth-of-type(8) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:2.4s;
 
 }
 /*"keep"*/
 .p16.on span:nth-of-type(9) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:2.6s;
 
 }
 /*"you"*/
 .p16.on span:nth-of-type(10) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:2.8s;
 
 }
 /*"in"*/
 .p16.on span:nth-of-type(11) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:3s;
 
 }
 /*"a"*/
 .p16.on span:nth-of-type(12) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:3.4s;
 
 }
 /*"little"*/
 .p16.on span:nth-of-type(13) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:4s;
 
 }
 /*"box?"*/
 .p16.on span:nth-of-type(14) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:4.4s;
 
 }
 
@@ -784,7 +1246,8 @@ VOICE 2:
 /*"Cells."*/
 .p18.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 }
 
@@ -806,7 +1269,8 @@ VOICE 2:
 /*"Interlinked."*/
 .p20.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 }
 
@@ -899,7 +1363,8 @@ VOICE 2:
 /*"Interlinked"*/
 .p23.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 }
 
@@ -986,7 +1451,8 @@ VOICE 2:
 /*"Interlinked"*/
 .p26.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 }
 
@@ -1221,7 +1687,8 @@ VOICE 2:
 /*"Interlinked."*/
 .p34.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 
 }
@@ -1343,26 +1810,30 @@ VOICE 2:
 VOICE 1:
 ********************************************** */
 
+.p38 span {
+    opacity: 0;
+}
+
+
 /*"Within"*/
 .p38.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    transition-delay:.4s;
 
 }
 
 /*"cells"*/
 .p38.on span:nth-of-type(2) {
     opacity: 1;
-    transition: 0s .4s;
-    margin-right: -.25em;
+    transition-delay:.5s;
+
 
 }
 
 /*"interlinked."*/
 .p38.on span:nth-of-type(3) {
     opacity: 1;
-    transition: 0s .4s;
-    margin-right: -.25em;
+    transition-delay:.7s;
 
 }
 
@@ -1373,23 +1844,24 @@ VOICE 2:
 /*"Within"*/
 .p39.on span:first-of-type {
     opacity: 1;
-    transition: 0s;
+    font-weight:600;
+    transition-delay:.2s;
 
 
 }
 /*"cells"*/
 .p39.on span:nth-of-type(2) {
     opacity: 1;
-    transition: 0s .4s;
-    margin-right: -.25em;
+    font-weight:600;
+    transition-delay:.4s;
 
 
 }
 /*"interlinked."*/
 .p39.on span:nth-of-type(3) {
     opacity: 1;
-    transition: 0s .4s;
-    margin-right: -.25em;
+    font-weight:600;
+    transition-delay:1s;
 
 
 }
@@ -1397,6 +1869,10 @@ VOICE 2:
 /* **********************************************
 VOICE 1:
 ********************************************** */
+
+.p40 span {
+    opacity: 0;
+}
 
 /*"Why"*/
 .p40.on span:first-of-type {
@@ -1408,65 +1884,63 @@ VOICE 1:
 /*"don't"*/
 .p40.on span:nth-of-type(2) {
     opacity: 1;
-    transition: 0s .4s;
-    margin-right: -.25em;
+    transition-delay:.4s;
 
 
 }
 /*"you"*/
 .p40.on span:nth-of-type(3) {
     opacity: 1;
-    transition: 0s .4s;
-    margin-right: -.25em;
+    transition-delay:.5s;;
 
 
 }
 /*"say"*/
 .p40.on span:nth-of-type(4) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:.7s;
 
 
 }
 /*"that"*/
 .p40.on span:nth-of-type(5) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:1.1s;
 
 
 }
 /*"three"*/
 .p40.on span:nth-of-type(6) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:1.4s;
 
 
 }
 /*"times:"*/
 .p40.on span:nth-of-type(7) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:1.7s;
 
 
 }
 /*""within"*/
 .p40.on span:nth-of-type(8) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:2.2s;
 
 
 }
 /*"cells"*/
 .p40.on span:nth-of-type(9) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:2.4s;
 
 
 }
 /*"interlinked"*/
 .p40.on span:nth-of-type(10) {
     opacity: 1;
-    transition: 0s .4s;
+    transition-delay:2.8s;
 
 
 }
@@ -1482,10 +1956,12 @@ VOICE 2:
 
 /*"Whitin"*/
 .p41.on span:first-of-type {
+
 }
 
 /*"cells"*/
 .p41.on span:nth-of-type(2) {
+
 }
 
 /*"interlinked"*/
