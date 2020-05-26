@@ -1,0 +1,136 @@
+
+/*STIJLING TOEGEVOEGDE CAPTIONS*/
+/*styling geluid1*/
+.geluid{
+    display: none;
+    position:absolute;
+    text-align: center;
+    width: 100%;
+    margin-top: 5em;
+}
+
+.geluid p {
+    width:100%;
+    text-align:center;
+    color:white;
+    font-family: "Brenner Mono"; font-style: italic; font-weight: 400;
+    font-size:20px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+
+ .sound0 #geluid1 {
+    display: block;
+    animation-timing-function: ease-in-out;
+    animation: fadeInOpacity 4.5s forwards;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    80%{
+    opacity: 1;}
+    100% {
+        opacity: 0;
+    }
+}
+
+/*styling geluid 2*/
+.sound1 #geluid2 {
+    display: block;
+    animation: shake 1.2s forwards;
+}
+
+/*styling geluid 3*/
+.sound2 #geluid3 {
+    display: block;
+    animation: shake 3s forwards;
+}
+
+ @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); opacity: 1; }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    99% { transform: translate(1px, -2px) rotate(-1deg); opacity: 1; }
+    100% { opacity: 0; }
+  }
+/*
+
+ styling geluid 4
+*/
+.sound3 #geluid4 {
+    display: block;
+    animation: shake 2s forwards;
+}
+
+/*styling geluid 5*/
+.sound5 #geluid5 {
+    display: block;
+    animation: shake 3s forwards;
+}
+/*
+
+styling geluid 6
+*/
+.sound7 #geluid6 {
+    display: block;
+    animation-timing-function: linear;
+    animation: fadeInOpacity 3s forwards;
+}
+
+#increases p {
+    margin-top: 3em;
+
+}
+.sound9 #increases {
+    display: block;
+    animation-timing-function: linear;
+    animation: fadeInOpacity 40s forwards;
+}
+/*
+
+styling geluid 7
+*/
+.sound10 #geluid7 {
+    display: block;
+    animation: blinking 8s forwards;
+}
+
+@keyframes blinking {
+    10% {opacity: 1;}
+    20% {opacity: 0.1;}
+    30% {opacity: 1;}
+    40% {opacity: 0.1;}
+    50% {opacity: 1;}
+    60% {opacity: 0.1;}
+    70% {opacity: 1;}
+    80% {opacity: 0.1;}
+    90% {opacity: 1;}
+    100% {opacity: 0;}
+}
+
+/*styling geluid 8*/
+.sound11 #geluid8 {
+    display: block;
+    animation: fadeOut 3s forwards;
+    margin-top: 10em;
+}
+
+@keyframes fadeOut {
+    0% {opacity: 1;}
+    100% {opacity: 0;}
+}
+
+
+
+
+
+
+
