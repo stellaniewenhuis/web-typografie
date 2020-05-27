@@ -35,18 +35,24 @@
     }
 }
 
-/*styling geluid 2*/
+/*styling sound 2*/
+/*extra tekst*/
 .sound1 #geluid2 {
     display: block;
     animation: shake 1.2s forwards;
 }
+/*placeholder animatie*/
+.sound1 #video-placeholder {
+    animation:shake2 1.2s linear;}
 
-/*styling geluid 3*/
+
+/*styling sound2 3*/
+/*extra tekst*/
 .sound2 #geluid3 {
     display: block;
     animation: shake 3s forwards;
 }
-
+/*animatie extra tekst shake*/
  @keyframes shake {
     0% { transform: translate(1px, 1px) rotate(0deg); opacity: 1; }
     10% { transform: translate(-1px, -2px) rotate(-1deg); }
@@ -61,9 +67,27 @@
     99% { transform: translate(1px, -2px) rotate(-1deg); opacity: 1; }
     100% { opacity: 0; }
   }
-/*
+/*animatie video-placeholder*/
+.sound2 video-placeholder{
+    animation:shake2 1.2s forwards;}
 
- styling geluid 4
+/*animatie placeholder shake*/
+@keyframes shake2 {
+    0% { transform: translate(1px, 1px) rotate(0deg); opacity: 1; }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    99% { transform: translate(1px, -2px) rotate(-1deg); opacity: 1; }
+    100% { opacity: 1; }
+  }
+
+/* styling geluid 4*/
 */
 .sound3 #geluid4 {
     display: block;
@@ -92,7 +116,7 @@ styling geluid 6
 .sound9 #increases {
     display: block;
     animation-timing-function: linear;
-    animation: fadeInOpacity 40s forwards;
+    animation: fadeInOpacity 33s forwards;
 }
 /*
 
@@ -128,7 +152,28 @@ styling geluid 7
     100% {opacity: 0;}
 }
 
+.sound12 #geluid9 {
+    display: block;
+    animation: fadeOut 10s forwards;
+    margin-top: 10em;
+}
 
+.sound13 iframe {
+    animation: blinking2 8s forwards;
+}
+
+@keyframes blinking2 {
+    10% {opacity: 1;}
+    20% {opacity: 0.1;}
+    30% {opacity: 1;}
+    40% {opacity: 0.1;}
+    50% {opacity: 1;}
+    60% {opacity: 0.1;}
+    70% {opacity: 1;}
+    80% {opacity: 0.1;}
+    90% {opacity: 1;}
+    100% {opacity: 1;}
+}
 
 
 
