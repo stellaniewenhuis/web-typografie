@@ -11,17 +11,17 @@ body{
 /*
 .sound0 #video-placeholder {
 animation-name: floating;
-    animation-duration: 9s;
+    animation-duration: 4s;
     animation-timing-function: ease-in-out;
 }
 
 @keyframes floating {
     from { transform: translate(0,  0px); }
-    65%  { transform: translate(0, 20px); }
+    65%  { transform: translate(0, 40px); }
     to   { transform: translate(0, -0px); }
 }
-*/
 
+*/
 
 /*
 .sound12 iframe{
@@ -73,50 +73,6 @@ p {
 }
 */
 
-.sound10 #video-placeholder{
-    animation: soundBackgroundChange 11s linear;
-}
-
-@-webkit-keyframes soundBackgroundChange {
-    91% {
-        box-shadow: 5px 5px 100px 40px red;
-    }
-    100% {
-        box-shadow: 1px 1px 50px 20px blue;
-    }
-}
-
-/*
-.sound12 #video-placeholder  {
-    box-shadow: 5px 5px 100px 40px blue;
-}
-*/
-
-
-.sound12 body {
-     animation:vullen 20s;
-}
-
-@-webkit-keyframes vullen {
-    0% {box-shadow: inset 0px 0px 50px 0px gray;
-    }
-    20% {box-shadow: inset 1px 1px 50px 500px gray;
-    }
-    100% {{box-shadow: inset 0px 0px 50px 0px black;
-    }
-}
-
-
-.sound12 #video-placeholder{
-     animation:verkleinen 50s linear;
-}
-
-  @keyframes verkleinen {
-  0%   {transform: scale(1);
-        opacity: 1;}
-  100% {transform: scale(0.7);
-        opacity: 1;}
-}
 
 
 

@@ -60,6 +60,7 @@ VOICE 2:
 .p47.on span:first-of-type {
     opacity: 1;
     transition: 0s;
+
 }
 /*"you"*/
 .p47.on span:nth-of-type(2) {
@@ -93,7 +94,7 @@ VOICE 2:
 .p49.on span:first-of-type {
     opacity: 1;
     transition: 0s;
-
+    font-size:15em;
 }
 
 /* **********************************************
@@ -885,29 +886,27 @@ VOICE 2:
 .p78.on span:nth-of-type(2) {
     opacity: 1;
     transition: 0s .4s;
-
+font-size:15px;
 
 }
 /*"white"*/
 .p78.on span:nth-of-type(3) {
     opacity: 1;
     transition: 0s .4s;
-    margin-right: -.25em;
-    font-weight: 200;
-
+font-size:15px;
 }
 /*"fountain"*/
 .p78.on span:nth-of-type(3) {
     opacity: 1;
     transition: 0s .4s;
-
+font-size:15px;
 
 }
 /*"played"*/
 .p78.on span:nth-of-type(3) {
     opacity: 1;
     transition: 0s .4s;
-
+    font-size:15px;
 
 }
 
@@ -919,6 +918,7 @@ VOICE 1:
 .p79.on span:first-of-type {
     opacity: 1;
     transition: 0s;
+
 
 
 }
