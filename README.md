@@ -54,11 +54,11 @@ Ik heb veel aangepast na de eerste feedback van Marie. Zo heb ik zelf tekst toeg
 - Vond de algemene sfeer erg goed. 
 - Vond de climax niet goed over komen (dit heb ik daarna nog snel aangepast voordat we de tekst met Marie hadden. Ik had de letters van SUDDDEN SILENCE groter gemaakt). 
 
-# Eindresultaat - belangrijkste ontwerpkeuzes
+# Eindresultaat - de belangrijkste ontwerpkeuzes
 
 ## Font
 
-Ik hebben gekozen voor het Brenner font omdat er keuze was uit veel verschillende fonts. In het begin had ik Brenner Display voor de Machine en Brenner Mono voor K. Maar uiteindelijk ben ik toch gegaan voor Mono bij alle tekst maar heb ik gevarieerd in italic, normal en light. Verder heb ik bij de stem van de machine een roze dropshadow gezet. 
+Ik hebben gekozen voor het Brenner font omdat er keuze was uit veel verschillende fonts. In het begin had ik Brenner Display voor de Machine en Brenner Mono voor K. Maar uiteindelijk ben ik toch gegaan voor Mono bij alle tekst maar heb ik gevarieerd in italic, normal en light. Verder heb ik bij de stem van de machine een roze dropshadow gezet. Ook heb ik voor deze font gekozen vanwege de goede leesbaarheid.
 
 
 <img width="1086" alt="Schermafbeelding 2020-05-29 om 07 30 12" src="https://user-images.githubusercontent.com/45544342/83224748-7343dd00-a17e-11ea-91d2-1ea284936943.png">
@@ -70,40 +70,48 @@ De roze dropshadow bij de machine/ in combinatie met blauwe hightlights. De woor
 Het was lastig om hier een foto van te maken. Maar er is veel variatie in hoe de tekst verschijnt bij K. Zo zijn de antwoorden van K light wanneer de baseline test nog niet is begonnen en verschijnt het antwoord in een keer. Wanneer hij bezig is met de baseline test, zie je de tekst al staan alleen worden de woorden 1 voor 1 dikgedrukt. Dit heb ik gedaan om naar voren te laten komen dat hij een stuk tekst voorleest wat in zijn systeem zit. Daarom staat het er al, maar worden de woorden 1 voor 1 dikker. Bij fragment 2 zijn is dit effect weggehaald en zie je alles in 1 keer. Dat heb ik gedaan om het directer te laten overkomen, omdat er in fragment 2 meer spanning is. Ook heeft K meer meegemaakt in de film waardoor hij het riedeltje niet echt meer voorleest. 
 
 
-## Geluid - belangrijkste 
+## Geluid - de ontwerpbelangrijkste keuzes
 
 <img width="1102" alt="Schermafbeelding 2020-05-29 om 07 43 02" src="https://user-images.githubusercontent.com/45544342/83225663-92dc0500-a180-11ea-846b-50bec370cb3f.png">
 
-Na de feedback van Marie, heb ik naast de animaties in de toegevoegde tekts, tegelijkertijd een animatie gezet op de video-placeholder. Zo is de beschrijving echt gelinkt aan de omschrijving, en geeft de kleursverandering en het ritme en  van de beweging van de video-placeholder ook meer over het geluid. 
+Na de feedback van Marie, heb ik naast de animaties in de toegevoegde tekts, tegelijkertijd een animatie gezet op de video-placeholder. Zo is de beschrijving echt gelinkt aan de omschrijving, en geeft de kleursverandering en het ritme en van de beweging van de video-placeholder ook meer over het ritme van het geluid en de trillingen. Marie had vertelt dat ze trillingen wel kan horen. 
 
 <img width="1680" alt="Schermafbeelding 2020-05-29 om 07 49 46" src="https://user-images.githubusercontent.com/45544342/83225880-04b44e80-a181-11ea-8505-1ff7d8024300.png">
 
 
-Het scherm wordt langzaam gevuld met grijze waas. Dit grote effect heb ik bedacht voor het laatste fragment, omdat je de muziek continue best hard hoort en deze tot het einde doorgaat. De spanning houdt aan. Ik wilde een groot verschil maken 
+<img width="1680" alt="Schermafbeelding 2020-05-29 om 07 54 02" src="https://user-images.githubusercontent.com/45544342/83226202-b5bae900-a181-11ea-8e91-dab56d810bf7.png">
 
+Het scherm wordt langzaam gevuld met grijze waas. Dit grote effect heb ik bedacht voor het laatste fragment, omdat je de muziek continue best hard hoort en deze tot het einde doorgaat. De spanning houdt aan. Ik wilde een groot verschil maken met het eerste fragment. Aan het einde wordt het scherm helemaal rood gevuld. Ik heb telkens bij de geluidsanimaties gebruik gemaakt van een wisseling van blauw naar rood. Dat heb ik hier ook gedaan alleen dan veel extremer. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Aan het einde heb ik ook nog een blink gemaakt, waarbij het scherm net even wegvalt en het geluid even stopt, voor de conclusie van de test: 'Your not even close to baseline'.
 
 
 # Exclusive Design Principles
 
+## 1. Study situation
+Het was een hele grote uitdaging om je echt in te kunnen leven in iemand die niet kan horen, iets dat voor jou (en bijna iedereen) super normaal is. Door in contact te komen, en vragen te kunnen stellen aan iemand, in dit geval Marie die doof is en waar we voor ontwerpen, kom je echt veel te weten. Naast dat ik alle gesprekken met Marie echt een eye openere vond, vond ik het ook heel interessant dat Marie soms zei als iemand vroeg : "Mis je nog wat?', en Marie antwoordde: 'Ik weet niet hoe het normaal is, dus weet ik ook niet wat ik mis'. Het was echt aan ons de taak om het geluid aan haar over te brengen, maar door een ander middel dan we gewend zijn. Maar ook was het interessant om te zien dat bepaalde dingen bij haar gewoon echt niet aansloegen. Het testen is super handig geweest om haar echt beter te begrijpen. 
+
+
+## 2. Ignore conventions
+Ik ben wel out of the box gegaan en heb alles wat meer overdreven. Vooral bij het tweede gedeelte. Geluid zie je natuurlijk normaal gesproken niet, dus het is niet normaal dat het wordt gevisualiseerd. In dit geval pak ik het anders aan en probeer ik visueel juist het geluid te weergeven, zodat het voor Marie duidelijk is wat er gebeurt met het geluid. Zo zal haar ervaring beter en minder saai worden. 
+
+
+## 3. Prioritese identity
+We hebben bij dit project veel contact gehad met Marie, en haar veel kunnen vragen. 
+
+
+
+
+Marie is veel betrokken geweest bij dit project en heeft ook veel goede feedback gegeven. Het begon al met het eerste gesprek, om ons in haar situatie in te leven. Daarna hebben we nog twee feedbackrondes gehad, hier heb ik veel aan gehad. Dingen die voor mij logisch waren (omdat ik wist welke geluiden er te horen waren), waren voor haar bijvoorbeeld helemaal niet logisch.
+
+
+Door de consistentie van de video te behouden heb ik ervoor gekozen om de teksten van de interviewer aan de linkerkant van beeld te plaatsen en de teksten van Officer K rechts in beeld als er gesproken wordt. Door deze consistentie te behouden is het ook gemakkelijker om te volgen en niet rommelig oogt. Wegens het ontwerpen en creëren voor verschillende mensen en voor mensen met een beperking kun je veel nieuwe ideeën en inzichten eruit halen waarvan je als ontwerper niet gauw stil bij staat.
+
+
+
+
+
+## 4. Add value / Add nonsense
 
 
 
@@ -119,7 +127,7 @@ Het scherm wordt langzaam gevuld met grijze waas. Dit grote effect heb ik bedach
 
 
 
-# Wat heb ik geleerd? 
+
 
 
 
