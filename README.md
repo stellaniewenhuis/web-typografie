@@ -1,4 +1,4 @@
-# Web-Typografie
+# Web-Typografie | Stella Niewenhuis
 
 Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als closed caption, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
 
@@ -6,15 +6,15 @@ Alleen wordt die auditieve informatie nogal neutraal beschreven. Het geluid van 
 
 Dat kan visueel sterker.
 
-De afgelopen 3 weken heb ik dit bij twee fragmenten van Blade Runner 2049 (de baseline test in het begin van de film en het einde) mogen doen. Door middel van HTML en CSS was het aan mij de taak om de geluiden en closed capions te visualiseren zodat de user experience voor Marie zou verbeteren. 
+De afgelopen 3 weken heb ik dit bij twee fragmenten van Blade Runner 2049 (tijdens de baseline test in het begin van de film en het einde) mogen doen. Door middel van HTML en CSS was het aan mij de taak om de geluiden en closed capions te visualiseren zodat de user experience voor Marie zou verbeteren. 
 
-# Wie is Marie?
+# Marie is doof
+Wij ontwerpen voor Marie en zij is doof. Dat betekent dat zij geen geluid hoort en communiceert met gebarentaal. Zij kan niet praten. Door middel van een tolk hebben wij kennis met haar gemaakt. Even kort op een rijtje wat info over haar: 
 
-
-
-
-
-
+- Ze houdt erg van lezen
+- Ze trillingen van heel hard geluid kan ze voelen 
+- Ze kan heel snel de ondertitels lezen
+- Het is vaak lastig om echt de spanning van een film te voelen. 
 
 
 
@@ -105,8 +105,15 @@ Verder heb ik telkens haar feedback zo goed mogelijk geprobeerd te bewerken. Het
 Sommige dingen die ik heb toegepast zijn best wel ongebruikelijk en overdreven. Zoals de bewegingen van de video-placeholder bv. Maar dat geeft juist helemaal niet omdat er voor Marie een heel deel van de ervaring mist, namelijk geluid. 
 Je kunt dat als het ware compenseren door meer met beweging en visualisaties te doen, zodat Marie een betere (en niet zo'n saaie) ervaring heeft. Nou moet ik wel zeggen dat ik het niet too much heb gedaan omdat Marie niet BLIND is. Ook vind ik dat je niet teveel met het beeld in de film moet doen omdat er ook door de regisseur is nagedacht over hoe dingen worden laten zien. Het versterken van wat er te zien is/wat er gebeurt en dat gelijktrekken aan de visualisaties van het geluid, zijn naar mijn mening het belangrijkst. 
 
+# Waar liep ik tegenop bij dit project? 
+- Ik heb het vooral heel onhandig aangepakt met mijn code. In het begin wist ik niet waar ik moest beginnen en keek ik naar het voorbeeld in de voorgeschreven code. Ik heb toen alle losse woorden in CSS uitgetypt! Ben daar wel 2 uur mee bezig geweest. 
+- Ik ben vaak lang bezig geweest met het centreren van teskt etc.  Zo had ik zelf tekst toegevoegd in html, maar omdat dit onder elkaar stond als verschillende regels, had ik elk stukje tekst handmatig aangepast wat betreft de positie. Uiteindelijk kwam ik erachter dat je met position absolute kunt instellen dat ze allemaal op dezelfde regel staan. 
+- Verder heb ik met zoveel dingen zoooooo lang gezeten voordat het lukte. Een voorbeeld: Het vergroten van het scherm (en dat de inhoud meeschaalt), bleek je in Javascript te kunnen aanpassen. Dat wist ik niet dus ik heb lopen zoeken in Javascript!
+- Ik kwam erachter dat je een bepaalde animatie niet meerdere keren kunt gebruiken op hetzelfde element. Dat wist ik eerst ook niet,  dus niks werkt op een gegeven moment. Uiteindelijk hoorde ik het van een klasgenoot. 
 
-
+# Wat heb ik geleerd? 
+- Ik heb bij dit vak vooral geleerd om je heel erg in te leven in iemand met een beperking. Ik kwam er tijdens het ontwerpen echt achter dat het een enorme zoektocht was om Marie te kunnen overtuigen. Zelf dacht ik bij de eerste test dat ik het al best aardig voor elkaar had, maar dat bleek dan achteraf totaal niet aan te slaan. Ik heb dit project ervaren als UX met de nadruk op Visual Design. Een erg interessante combi! 
+- Ik heb veel meer geleerd over css aimaties! Ben zelf niet zo'n ster in code maar ik moet zeggen dat ik aardig tevreden ben met hoe het is geworden:)
 
 
 
