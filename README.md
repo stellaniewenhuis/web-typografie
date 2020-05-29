@@ -97,33 +97,13 @@ Ik ben wel out of the box gegaan en heb alles wat meer overdreven. Vooral bij he
 
 
 ## 3. Prioritese identity
-We hebben bij dit project veel contact gehad met Marie, en haar veel kunnen vragen. 
+We hebben bij dit project veel contact gehad met Marie, en haar veel kunnen vragen. Bij het kennismakingsgesprek leerde je veel over haar situatie en tijdens het testen kwam je erachter dat heel veel dingen die voor mij logisch zijn, voor haar niet logisch zijn. Ze vond de glow van mijn tekst en de donkere achtergrond wel heel sfeervol en dat heb ik daarom ook zo gelaten. 
+Verder heb ik telkens haar feedback zo goed mogelijk geprobeerd te bewerken. Het belangrijkste is ook wel geweest om het fragment steeds ZONDER GELUID af te spelen en te bedenken of het genoeg met Marie zou doen. 
 
 
-
-
-Marie is veel betrokken geweest bij dit project en heeft ook veel goede feedback gegeven. Het begon al met het eerste gesprek, om ons in haar situatie in te leven. Daarna hebben we nog twee feedbackrondes gehad, hier heb ik veel aan gehad. Dingen die voor mij logisch waren (omdat ik wist welke geluiden er te horen waren), waren voor haar bijvoorbeeld helemaal niet logisch.
-
-
-Door de consistentie van de video te behouden heb ik ervoor gekozen om de teksten van de interviewer aan de linkerkant van beeld te plaatsen en de teksten van Officer K rechts in beeld als er gesproken wordt. Door deze consistentie te behouden is het ook gemakkelijker om te volgen en niet rommelig oogt. Wegens het ontwerpen en creëren voor verschillende mensen en voor mensen met een beperking kun je veel nieuwe ideeën en inzichten eruit halen waarvan je als ontwerper niet gauw stil bij staat.
-
-
-
-
-
-## 4. Add value / Add nonsense
-
-
-
-
-
-
-
-
-
-
-
-
+## 4. Add nonsense
+Sommige dingen die ik heb toegepast zijn best wel ongebruikelijk en overdreven. Zoals de bewegingen van de video-placeholder bv. Maar dat geeft juist helemaal niet omdat er voor Marie een heel deel van de ervaring mist, namelijk geluid. 
+Je kunt dat als het ware compenseren door meer met beweging en visualisaties te doen, zodat Marie een betere (en niet zo'n saaie) ervaring heeft. Nou moet ik wel zeggen dat ik het niet too much heb gedaan omdat Marie niet BLIND is. Ook vind ik dat je niet teveel met het beeld in de film moet doen omdat er ook door de regisseur is nagedacht over hoe dingen worden laten zien. Het versterken van wat er te zien is/wat er gebeurt en dat gelijktrekken aan de visualisaties van het geluid, zijn naar mijn mening het belangrijkst. 
 
 
 
