@@ -74,7 +74,7 @@ Het was lastig om hier een foto van te maken. Maar er is veel variatie in hoe de
 
 <img width="1102" alt="Schermafbeelding 2020-05-29 om 07 43 02" src="https://user-images.githubusercontent.com/45544342/83225663-92dc0500-a180-11ea-846b-50bec370cb3f.png">
 
-Na de feedback van Marie, heb ik naast de animaties in de toegevoegde tekts, tegelijkertijd een animatie gezet op de video-placeholder. Zo is de beschrijving echt gelinkt aan de omschrijving, en geeft de kleursverandering en het ritme en van de beweging van de video-placeholder ook meer over het ritme van het geluid en de trillingen. Marie had vertelt dat ze trillingen wel kan horen. 
+Na de feedback van Marie, heb ik naast de animaties in de toegevoegde tekts, tegelijkertijd een animatie (denk aan shaken van het scherm, bewegen van het scherm etc.) gezet op de video-placeholder. Zo is de beschrijving echt gelinkt aan de omschrijving, en geeft de kleursverandering en het ritme en van de beweging van de video-placeholder ook meer over het ritme van het geluid en de trillingen. Marie had vertelt dat ze trillingen wel kan horen. 
 
 <img width="1680" alt="Schermafbeelding 2020-05-29 om 07 49 46" src="https://user-images.githubusercontent.com/45544342/83225880-04b44e80-a181-11ea-8505-1ff7d8024300.png">
 
