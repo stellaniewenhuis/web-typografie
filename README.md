@@ -1,4 +1,4 @@
-# web-typografie
+# Web-Typografie
 
 Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als closed caption, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
 
@@ -30,10 +30,10 @@ Ik had voor test 1 alleen het eerste fragment uitgewerkt. Waar ik me op had gefo
 - De climax kwam totaal niet over. 
 - Ze vond de blauwe video-placeholder te abstract. Als de kleursveranding van de dropshadow staat voor verandering van het geluid, dan wil ze weten wat dat geluid dan is. 
 - Comments erbij zou ze dus fijn vinden. 
+- Marie vond het cool dat ik had gedacht aan hoe ik de letters wilde weergeven (niet meteen zichtbaar, maar woord voor woord).
 
 ## Feedback Vasilis
-- Vasilis vond dat ik goed bezig was en vertelde eigenlijk aan ons alledrie (Rebecca Lisa en ik), dat we vooral moesten kijken naar hoe we het geluid zouden gaan visualiseren. We waren nu best wel bezig geweest met de closed captions zelf namelijk. 
-
+- Vasilis vond dat ik goed bezig was en vertelde eigenlijk aan ons alledrie (Rebecca Lisa en ik), dat we vooral moesten kijken naar hoe we het geluid zouden gaan visualiseren. We waren nu best wel bezig geweest met de closed captions zelf namelijk.
 
 # Test 2
 
@@ -54,10 +54,31 @@ Ik heb veel aangepast na de eerste feedback van Marie. Zo heb ik zelf tekst toeg
 - Vond de algemene sfeer erg goed. 
 - Vond de climax niet goed over komen (dit heb ik daarna nog snel aangepast voordat we de tekst met Marie hadden. Ik had de letters van SUDDDEN SILENCE groter gemaakt). 
 
-# Eindresultaat 
+# Eindresultaat - belangrijkste ontwerpkeuzes
+
+## Font
+
+Ik hebben gekozen voor het Brenner font omdat er keuze was uit veel verschillende fonts. In het begin had ik Brenner Display voor de Machine en Brenner Mono voor K. Maar uiteindelijk ben ik toch gegaan voor Mono bij alle tekst maar heb ik gevarieerd in italic, normal en light. Verder heb ik bij de stem van de machine een roze dropshadow gezet. 
 
 
+<img width="1086" alt="Schermafbeelding 2020-05-29 om 07 30 12" src="https://user-images.githubusercontent.com/45544342/83224748-7343dd00-a17e-11ea-91d2-1ea284936943.png">
 
+De roze dropshadow bij de machine/ in combinatie met blauwe hightlights. De woorden worden 1 voor 1 laten zien bij het eerste fragment. Bij het tweede fragment wordt alles meteen laten zien omdat er meer spanning is en het sneller gaat. 
+
+<img width="1098" alt="Schermafbeelding 2020-05-29 om 07 38 37" src="https://user-images.githubusercontent.com/45544342/83225168-78555c00-a17f-11ea-8b80-661a3b54a568.png">
+
+Het was lastig om hier een foto van te maken. Maar er is veel variatie in hoe de tekst verschijnt bij K. Zo zijn de antwoorden van K light wanneer de baseline test nog niet is begonnen en verschijnt het antwoord in een keer. Wanneer hij bezig is met de baseline test, zie je de tekst al staan alleen worden de woorden 1 voor 1 dikgedrukt. Dit heb ik gedaan om naar voren te laten komen dat hij een stuk tekst voorleest wat in zijn systeem zit. Daarom staat het er al, maar worden de woorden 1 voor 1 dikker. Bij fragment 2 zijn is dit effect weggehaald en zie je alles in 1 keer. Dat heb ik gedaan om het directer te laten overkomen, omdat er in fragment 2 meer spanning is. Ook heeft K meer meegemaakt in de film waardoor hij het riedeltje niet echt meer voorleest. 
+
+
+## Geluid 
+
+<img width="1102" alt="Schermafbeelding 2020-05-29 om 07 43 02" src="https://user-images.githubusercontent.com/45544342/83225663-92dc0500-a180-11ea-846b-50bec370cb3f.png">
+
+Na de feedback van Marie, heb ik naast de animaties in de toegevoegde tekts, tegelijkertijd een animatie gezet op de video-placeholder. Zo is de beschrijving echt gelinkt aan de omschrijving, en geeft de kleursverandering en het ritme en  van de beweging van de video-placeholder ook meer over het geluid. 
+
+<img width="1680" alt="Schermafbeelding 2020-05-29 om 07 49 46" src="https://user-images.githubusercontent.com/45544342/83225880-04b44e80-a181-11ea-8505-1ff7d8024300.png">
+
+Het scherm wordt langzaam gevuld met grijze waas. Dit grote effect heb ik bedacht voor het laatste fragment, omdat je de muziek continue best hard hoort. 
 
 
 
