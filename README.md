@@ -85,7 +85,6 @@ Het scherm wordt langzaam gevuld met grijze waas. Dit grote effect heb ik bedach
 
 Aan het einde heb ik ook nog een blink gemaakt, waarbij het scherm net even wegvalt en het geluid even stopt, voor de conclusie van de test: 'Your not even close to baseline'.
 
-
 # Exclusive Design Principles
 
 ## 1. Study situation
@@ -103,7 +102,9 @@ Verder heb ik telkens haar feedback zo goed mogelijk geprobeerd te bewerken. Het
 
 ## 4. Add nonsense
 Sommige dingen die ik heb toegepast zijn best wel ongebruikelijk en overdreven. Zoals de bewegingen van de video-placeholder bv. Maar dat geeft juist helemaal niet omdat er voor Marie een heel deel van de ervaring mist, namelijk geluid. 
-Je kunt dat als het ware compenseren door meer met beweging en visualisaties te doen, zodat Marie een betere (en niet zo'n saaie) ervaring heeft. Nou moet ik wel zeggen dat ik het niet too much heb gedaan omdat Marie niet BLIND is. Ook vind ik dat je niet teveel met het beeld in de film moet doen omdat er ook door de regisseur is nagedacht over hoe dingen worden laten zien. Het versterken van wat er te zien is/wat er gebeurt en dat gelijktrekken aan de visualisaties van het geluid, zijn naar mijn mening het belangrijkst. 
+Je kunt dat als het ware compenseren door meer met beweging en visualisaties te doen, zodat Marie een betere (en niet zo'n saaie) ervaring heeft. Nou moet ik wel zeggen dat ik het niet too much heb gedaan omdat Marie niet BLIND is. Ook vind ik dat je niet teveel met het beeld in de film moet doen omdat er ook door de regisseur is nagedacht over hoe dingen worden laten zien. Het versterken van wat er te zien is/wat er gebeurt en dat gelijktrekken aan de visualisaties van het geluid, zijn naar mijn mening het belangrijkst. Met behulp van de feedback van Marie heb ik het zo veel mogelijk naar hand willen zetten. Wat ik zelf vooral belanrgijk vond en haar graag wilde meegeven van de film, waren de climaxen en het verschil tussen fragment 1 en 2. Naast het toevoegen van steeds losse elementen en wat overdreven dingen, heb ik geprobeerd die verhaallijnen niet teveel te onderbreken.  
+
+
 
 # Waar liep ik tegenop bij dit project? 
 - Ik heb het vooral heel onhandig aangepakt met mijn code. In het begin wist ik niet waar ik moest beginnen en keek ik naar het voorbeeld in de voorgeschreven code. Ik heb toen alle losse woorden in CSS uitgetypt! Ben daar wel 2 uur mee bezig geweest. 
