@@ -70,7 +70,7 @@ De roze dropshadow bij de machine/ in combinatie met blauwe hightlights. De woor
 Het was lastig om hier een foto van te maken. Maar er is veel variatie in hoe de tekst verschijnt bij K. Zo zijn de antwoorden van K light wanneer de baseline test nog niet is begonnen en verschijnt het antwoord in een keer. Wanneer hij bezig is met de baseline test, zie je de tekst al staan alleen worden de woorden 1 voor 1 dikgedrukt. Dit heb ik gedaan om naar voren te laten komen dat hij een stuk tekst voorleest wat in zijn systeem zit. Daarom staat het er al, maar worden de woorden 1 voor 1 dikker. Bij fragment 2 zijn is dit effect weggehaald en zie je alles in 1 keer. Dat heb ik gedaan om het directer te laten overkomen, omdat er in fragment 2 meer spanning is. Ook heeft K meer meegemaakt in de film waardoor hij het riedeltje niet echt meer voorleest. 
 
 
-## Geluid 
+## Geluid - belangrijkste 
 
 <img width="1102" alt="Schermafbeelding 2020-05-29 om 07 43 02" src="https://user-images.githubusercontent.com/45544342/83225663-92dc0500-a180-11ea-846b-50bec370cb3f.png">
 
@@ -78,7 +78,10 @@ Na de feedback van Marie, heb ik naast de animaties in de toegevoegde tekts, teg
 
 <img width="1680" alt="Schermafbeelding 2020-05-29 om 07 49 46" src="https://user-images.githubusercontent.com/45544342/83225880-04b44e80-a181-11ea-8505-1ff7d8024300.png">
 
-Het scherm wordt langzaam gevuld met grijze waas. Dit grote effect heb ik bedacht voor het laatste fragment, omdat je de muziek continue best hard hoort. 
+
+Het scherm wordt langzaam gevuld met grijze waas. Dit grote effect heb ik bedacht voor het laatste fragment, omdat je de muziek continue best hard hoort en deze tot het einde doorgaat. De spanning houdt aan. Ik wilde een groot verschil maken 
+
+
 
 
 
